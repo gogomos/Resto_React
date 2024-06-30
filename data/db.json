@@ -1,0 +1,130 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Classic Margherita Pizza",
+      "description": "A simple yet delicious pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719316385/zrkliark6tustmmvmpi7.jpg",
+      "category": "Pizza",
+      "createdAt": "2024-06-20T10:00:00.000Z",
+      "howToPrepare": "Preheat oven to 475°F (245°C). Stretch pizza dough into a round shape. Spread tomato sauce over dough, sprinkle with mozzarella cheese. Arrange tomato slices and basil leaves. Bake for 10-12 minutes, or until crust is golden and cheese is bubbly.",
+      "recipe": "1. Preheat oven to 475°F (245°C).\n2. Stretch pizza dough into a round shape.\n3. Spread tomato sauce evenly over the dough.\n4. Sprinkle shredded mozzarella cheese over the sauce.\n5. Arrange tomato slices and fresh basil leaves on top.\n6. Bake for 10-12 minutes, or until the crust is golden and the cheese is melted and bubbly."
+    },
+    {
+      "id": 2,
+      "title": "Spaghetti Carbonara",
+      "description": "A rich and creamy pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719316385/zrkliark6tustmmvmpi7.jpg",
+      "category": "Pasta",
+      "createdAt": "2024-06-21T12:00:00.000Z",
+      "howToPrepare": "Cook the pasta until al dente. In a separate pan, cook the pancetta until crispy. Beat eggs, cheese, and pepper in a bowl. Drain the pasta, mix with the pancetta and its fat. Quickly stir in the egg mixture. Serve immediately topped with more cheese and pepper.",
+      "recipe": "1. Cook the pasta in boiling salted water until al dente.\n2. In a skillet, cook pancetta until crispy, then set aside.\n3. In a bowl, beat eggs, grated cheese, and freshly ground black pepper.\n4. Drain the cooked pasta, reserving some pasta water.\n5. Toss the hot pasta with the pancetta and its rendered fat.\n6. Quickly stir in the egg mixture, adding reserved pasta water if needed.\n7. Serve immediately, topped with additional grated cheese and freshly ground black pepper."
+    },
+    {
+      "id": 3,
+      "title": "Classic Cheeseburger",
+      "description": "A juicy beef patty topped with cheese, lettuce, tomato, and onions, served in a toasted bun.",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719316385/zrkliark6tustmmvmpi7.jpg",
+      "category": "Burger",
+      "createdAt": "2024-06-22T14:00:00.000Z",
+      "howToPrepare": "Season ground beef with salt and pepper. Form into patties and grill or cook in a pan until desired doneness. Toast buns lightly. Assemble burgers with cheese, lettuce, tomato, and onion. Serve immediately.",
+      "recipe": "1. Season ground beef with salt and pepper.\n2. Shape into patties of desired size and thickness.\n3. Grill or cook in a skillet over medium-high heat until cooked to your preference.\n4. Lightly toast burger buns on the grill or in a toaster.\n5. Assemble burgers by placing cooked patties on the bottom bun.\n6. Add cheese slices, lettuce leaves, tomato slices, and onion rings.\n7. Top with the other half of the bun and serve immediately."
+    },
+    {
+      "id": 4,
+      "title": "Caesar Salad",
+      "description": "Crisp romaine lettuce tossed with Caesar dressing, croutons, and grated Parmesan cheese.",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719316385/zrkliark6tustmmvmpi7.jpg",
+      "category": "Salad",
+      "createdAt": "2024-06-23T16:00:00.000Z",
+      "howToPrepare": "Tear lettuce into bite-sized pieces. Toss with Caesar dressing until well coated. Add croutons and grated Parmesan cheese. Serve chilled.",
+      "recipe": "1. Tear fresh romaine lettuce into bite-sized pieces.\n2. In a large salad bowl, toss the lettuce with Caesar dressing until evenly coated.\n3. Add crunchy croutons to the salad for texture and flavor.\n4. Sprinkle grated Parmesan cheese generously over the salad.\n5. Toss the salad gently to combine all ingredients.\n6. Serve chilled as a refreshing starter or side dish."
+    },
+    {
+      "id": 5,
+      "title": "Chicken Curry",
+      "description": "Tender chicken pieces cooked in a flavorful curry sauce with spices and coconut milk.",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719316385/zrkliark6tustmmvmpi7.jpg",
+      "category": "Curry",
+      "createdAt": "2024-06-24T18:00:00.000Z",
+      "howToPrepare": "Heat oil in a pan. Add diced chicken and cook until browned. Add curry paste and stir for a minute. Pour in coconut milk and simmer until chicken is cooked through. Season with salt and pepper. Serve hot.",
+      "recipe": "1. Heat oil in a large skillet or saucepan over medium heat.\n2. Add diced chicken breast or thigh pieces to the hot oil and cook until lightly browned.\n3. Stir in curry paste or curry powder and cook for about a minute until fragrant.\n4. Pour in coconut milk and stir well to combine with the chicken and curry mixture.\n5. Simmer gently until the chicken is fully cooked and tender.\n6. Season the curry with salt and pepper to taste.\n7. Serve hot with steamed rice or naan bread for a satisfying meal."
+    },
+    {
+      "id": 6,
+      "title": "Chocolate Cake",
+      "description": "A rich and moist chocolate cake topped with chocolate ganache and fresh berries.",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719316385/zrkliark6tustmmvmpi7.jpg",
+      "category": "Dessert",
+      "createdAt": "2024-06-25T20:00:00.000Z",
+      "howToPrepare": "Preheat oven to 350°F (175°C). Grease and flour cake pans. In a large bowl, mix flour, sugar, cocoa powder, baking powder, baking soda, and salt. Add eggs, milk, oil, and vanilla. Beat on medium speed for 2 minutes. Stir in boiling water. Pour batter into pans. Bake for 30 to 35 minutes. Cool completely before frosting.",
+      "recipe": "1. Preheat your oven to 350°F (175°C).\n2. Grease and flour two 9-inch round cake pans.\n3. In a large mixing bowl, combine flour, sugar, cocoa powder, baking powder, baking soda, and salt.\n4. Add eggs, milk, vegetable oil, and vanilla extract to the dry ingredients.\n5. Beat the mixture on medium speed for about 2 minutes until well combined.\n6. Stir in boiling water to the cake batter, the batter will be thin.\n7. Pour the batter evenly into the prepared cake pans.\n8. Bake in preheated oven for 30 to 35 minutes, or until a toothpick inserted into the center comes out clean.\n9. Cool the cakes in the pans on a wire rack for 10 minutes.\n10. Remove cakes from pans and cool completely on wire racks before frosting."
+    },
+    {
+      "id": 7,
+      "title": "Grilled Salmon",
+      "description": "Salmon fillets grilled to perfection and served with a lemon butter sauce.",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719316385/zrkliark6tustmmvmpi7.jpg",
+      "category": "Fish",
+      "createdAt": "2024-06-26T22:00:00.000Z",
+      "howToPrepare": "Preheat grill to medium-high heat. Season salmon with salt and pepper. Place salmon skin-side down on grill. Cook for 5-7 minutes per side, or until fish flakes easily with a fork. Serve hot with lemon butter sauce.",
+      "recipe": "1. Preheat your grill to medium-high heat.\n2. Season salmon fillets with salt and freshly ground black pepper on both sides.\n3. Place the salmon fillets skin-side down on the hot grill grate.\n4. Grill the salmon for 5-7 minutes on each side, or until the fish flakes easily with a fork.\n5. Serve the grilled salmon hot, garnished with lemon wedges and drizzled with homemade lemon butter sauce."
+    },
+    {
+      "id": 8,
+      "title": "Vegetable Stir-Fry",
+      "description": "A colorful mix of vegetables stir-fried with soy sauce and sesame oil.",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719316385/zrkliark6tustmmvmpi7.jpg",
+      "category": "Vegetarian",
+      "createdAt": "2024-06-27T11:00:00.000Z",
+      "howToPrepare": "Heat oil in a large skillet or wok over medium-high heat. Add chopped vegetables and stir-fry until tender-crisp. Add soy sauce, sesame oil, and any desired seasonings. Stir-fry for another minute. Serve hot.",
+      "recipe": "1. Heat vegetable oil in a large skillet or wok over medium-high heat.\n2. Add chopped vegetables (such as bell peppers, broccoli, carrots, and snap peas) to the hot oil.\n3. Stir-fry the vegetables until they are tender-crisp, about 5-7 minutes.\n4. Add soy sauce and sesame oil to the vegetables, tossing to coat evenly.\n5. Season the stir-fry with garlic powder, ginger powder, or red pepper flakes, if desired.\n6. Continue stir-frying for another minute until the vegetables are heated through.\n7. Serve the vegetable stir-fry hot as a flavorful side dish or vegetarian main course."
+    },
+    {
+      "id": 9,
+      "title": "Beef Tacos",
+      "description": "Soft tortillas filled with seasoned beef, lettuce, cheese, and salsa.",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719316385/zrkliark6tustmmvmpi7.jpg",
+      "category": "Mexican",
+      "createdAt": "2024-06-28T13:00:00.000Z",
+      "howToPrepare": "Cook ground beef in a skillet over medium-high heat until browned. Drain excess fat. Add taco seasoning and water. Simmer for 5 minutes. Heat tortillas in a dry skillet until warmed through. Fill tortillas with beef, lettuce, cheese, and salsa. Serve hot.",
+      "recipe": "1. In a large skillet over medium-high heat, cook ground beef until it is browned and cooked through.\n2. Drain excess fat from the skillet.\n3. Stir in taco seasoning and water, bring to a boil.\n4. Reduce heat and simmer for 5 minutes, stirring occasionally.\n5. In a separate skillet, heat tortillas over medium heat until warm and flexible.\n6. Fill each warm tortilla with a scoop of the seasoned ground beef.\n7. Top with shredded lettuce, grated cheese, and your favorite salsa.\n8. Fold the tortillas over the filling and serve the beef tacos immediately."
+    },
+    {
+      "id": 10,
+      "title": "Pancakes with Maple Syrup",
+      "description": "Fluffy pancakes served with butter and drizzled with maple syrup.",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719316385/zrkliark6tustmmvmpi7.jpg",
+      "category": "Breakfast",
+      "createdAt": "2024-06-29T15:00:00.000Z",
+      "howToPrepare": "In a bowl, mix flour, sugar, baking powder, and salt. In another bowl, whisk eggs, milk, and melted butter. Stir wet ingredients into dry ingredients until just combined. Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Cook until bubbles form on the surface, flip with a spatula, and cook until browned on the other side.",
+      "recipe": "1. In a large mixing bowl, whisk together flour, sugar, baking powder, and salt.\n2. In another bowl, beat eggs until light and fluffy.\n3. Stir in milk and melted butter until well combined.\n4. Add wet ingredients to dry ingredients and stir until just combined.\n5. Heat a griddle or non-stick skillet over medium-high heat and lightly grease with butter or oil.\n6. Pour 1/4 cup of batter for each pancake onto the hot griddle.\n7. Cook until bubbles form on the surface of the pancake, then flip and cook until golden brown on the other side.\n8. Serve pancakes hot with butter and maple syrup."
+    },
+    {
+      "id": "3b30",
+      "title": "gyty",
+      "description": "jhuuyvu",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719721261/x4c7zsrbem4xqrip5hhs.jpg",
+      "category": "Breakfast",
+      "createdAt": "2024-06-30T04:21:02.061Z"
+    },
+    {
+      "id": "1d13",
+      "title": "sklk",
+      "description": "ksckjc",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719721381/uu6qg1jcceskirtkcqp5.jpg",
+      "category": "Breakfast",
+      "createdAt": "2024-06-30T04:23:01.294Z"
+    },
+    {
+      "id": "e918",
+      "title": "kkjsk",
+      "description": "jdndh",
+      "image": "https://res.cloudinary.com/dgbwl69xi/image/upload/v1719721727/frp09xoqknp57hdniqvt.jpg",
+      "category": "Breakfast",
+      "howToPrepare": "kdjdd",
+      "recipe": "dddddddddddddddd",
+      "createdAt": "2024-06-30T04:28:47.350Z"
+    }
+  ]
+}
