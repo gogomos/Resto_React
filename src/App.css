@@ -64,3 +64,79 @@
   font-size: 1rem;
   color: #666;
 }
+
+/* AboutUs.css */
+.about_us_page {
+  font-family: 'Poppins', sans-serif;
+}
+
+.header_section {
+  background: #fff;
+  padding: 15px 0;
+}
+
+.custom_nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav_search-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.overlay {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+  overflow-x: hidden;
+  transition: 0.5s;
+}
+
+.overlay-content {
+  position: relative;
+  top: 25%;
+  width: 100%;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.overlay a {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.overlay a:hover,
+.overlay a:focus {
+  color: #f1f1f1;
+}
+
+.layout_padding {
+  padding: 60px 0;
+}
+
+.box-img {
+  max-width: 100%;
+  height: auto;
+}
+
+.footer_section {
+  background: #f8f8f8;
+  padding: 20px 0;
+}
+
+.footer_section p {
+  text-align: center;
+  margin: 0;
+}
+

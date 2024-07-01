@@ -5,8 +5,10 @@ import Home from './components/Home';
 import AddArticle from './components/AddArticle';
 import ArticleDetails from './components/ArticleDetails';
 import NavBar from './components/NavBar';
-import AboutUs from './components/AboutUs';
+import AboutUs from './components/AboutUs'
 import { Container} from "react-bootstrap";
+import '@fortawesome/fontawesome-free/css/all.min.css';
+
 
 
 
